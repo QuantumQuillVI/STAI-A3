@@ -1,0 +1,3262 @@
+[
+  {
+    "text": "#Jalandhar के लोगों कोKejriwal की गारंटी | #arvindkejriwal #jalandharbyelection #punjab #shorts",
+    "id": 14461,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 10,
+        "text": "Jalandhar",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "text": "कोKejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 58,
+        "text": "arvindkejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 79,
+        "text": "jalandharbyelection",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 87,
+        "text": "punjab",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 95,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "लोगों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "text": "गारंटी",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2025-01-26T15:02:10.667856Z",
+    "updated_at": "2025-01-26T15:02:10.667870Z",
+    "lead_time": 95.481
+  },
+  {
+    "text": "Jalandhar By Election : Arvind Kejriwal और Bhagwant Mann की दमदार Jansabha | Aam Aadmi Party Punjab",
+    "id": 14462,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Jalandhar",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "text": "Bhagwant",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "Mann",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 74,
+        "text": "Jansabha",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "Aam",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 86,
+        "text": "Aadmi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "text": "Punjab",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "text": "Party",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "text": "Election",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "By",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": ":",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "text": "दमदार",
+        "labels": [
+          "ADJ"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2025-01-26T15:07:42.695933Z",
+    "updated_at": "2025-01-26T15:07:42.695947Z",
+    "lead_time": 36.847
+  },
+  {
+    "text": "Arvind Kejriwal ने Delhi Vidhansabha में सुनाई चौथी पास राजा की कहानी | Latest Speech | AAP | Modi",
+    "id": 14463,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "text": "Delhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "text": "Vidhansabha",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "text": "सुनाई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "चौथी",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "पास",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 60,
+        "text": "राजा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "text": "कहानी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 78,
+        "text": "Latest",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 85,
+        "text": "Speech",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2025-01-26T15:08:37.626387Z",
+    "updated_at": "2025-01-26T15:08:37.626398Z",
+    "lead_time": 53.092
+  },
+  {
+    "text": "Sanjay Singh ने Delhi के नए Mayor के नाम का किया ऐलान | Delhi MCD Mayor Election | Aam Aadmi Party",
+    "id": 14464,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Sanjay",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "Singh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "text": "Delhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "MCD",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 61,
+        "text": "Delhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 71,
+        "text": "Mayor",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "Aam",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "text": "Aadmi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "text": "Party",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 80,
+        "text": "Election",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "text": "Mayor",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "नाम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "ऐलान",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2025-01-26T15:09:31.463057Z",
+    "updated_at": "2025-01-26T15:09:31.463070Z",
+    "lead_time": 52.352
+  },
+  {
+    "text": "Raghav Chadha के साथ Najafgarh Police Station में क्या हुआ? | Arvind Kejriwal CBI Latest News",
+    "id": 14465,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Raghav",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "Chadha",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "text": "Najafgarh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "Police",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 77,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "Police",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "text": "Station",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "Police",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "साथ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "क्या",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "हुआ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "text": "?",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 88,
+        "text": "Latest",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "News",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2025-01-26T15:10:33.785187Z",
+    "updated_at": "2025-01-26T15:10:33.785203Z",
+    "lead_time": 59.446
+  },
+  {
+    "text": "Arvind Kejriwal CBI Latest News : केजरीवाल से डरा मोदी | हिरासत में AAP नेता | Aam Aadmi Party",
+    "id": 14466,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "text": "केजरीवाल",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "Aam",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 88,
+        "text": "Aadmi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "text": "Party",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "से",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "नेता",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "text": "हिरासत",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "डरा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "मोदी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "text": "Latest",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "News",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "text": ":",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2025-01-26T15:11:33.880053Z",
+    "updated_at": "2025-01-26T15:11:33.880069Z",
+    "lead_time": 58.861
+  },
+  {
+    "text": "#CBI के Summon के खिलाफ #ArvindKejriwal के लिए AAP का प्रचंड प्रदर्शन!! #AAP #shorts",
+    "id": 14467,
+    "label": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "text": "ArvindKejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "text": "AAP",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 84,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "प्रचंड",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "text": "प्रदर्शन",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "text": "Summon",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": "खिलाफ",
+        "labels": [
+          "ADJ"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2025-01-26T15:12:55.983657Z",
+    "updated_at": "2025-01-26T15:12:55.983672Z",
+    "lead_time": 80.073
+  },
+  {
+    "text": "#CBI Summon से पहले #NarendraModi से #Kejrwal ने पूछे कुछ जरूरी सवाल | #arvindkejriwal #modi #shorts",
+    "id": 14468,
+    "label": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "text": "NarendraModi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "text": "Kejrwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 86,
+        "text": "arvindkejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "text": "modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "text": "Summon",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "से",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "से",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "पूछे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "पहले",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "कुछ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "कुछ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "कुछ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "text": "जरूरी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "text": "सवाल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2025-01-26T15:14:20.156795Z",
+    "updated_at": "2025-01-26T15:14:20.156808Z",
+    "lead_time": 79.108
+  },
+  {
+    "text": "CBI Office जाने से पहले CM Arvind Kejriwal की Media Briefing | Modi vs Kejriwal | AAP",
+    "id": 14469,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "CM",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 67,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "vs",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "text": "पहले",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "जाने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "Office",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "से",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 51,
+        "text": "Media",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "text": "Briefing",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2025-01-26T15:15:08.948317Z",
+    "updated_at": "2025-01-26T15:15:08.948329Z",
+    "lead_time": 45.38
+  },
+  {
+    "text": "CBI Office जाने से पहले CM Arvind Kejriwal की Important Press Conference | Modi Vs Kejriwal | AAP",
+    "id": 14470,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "CM",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 79,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 91,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 82,
+        "text": "Vs",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "text": "पहले",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "Office",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "जाने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "text": "Important",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 61,
+        "text": "Press",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "text": "Conference",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2025-01-26T15:16:44.701005Z",
+    "updated_at": "2025-01-26T15:16:44.701137Z",
+    "lead_time": 94.416
+  },
+  {
+    "text": "इस Video ने Modi का असली चेहरा सामने ला दिया! Satya Pal Malik ने Modi को किया EXPOSE | Sanjay Singh",
+    "id": 14471,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "इस",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "Video",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 51,
+        "text": "Satya",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "Pal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 61,
+        "text": "Malik",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 93,
+        "text": "Sanjay",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "text": "Singh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "text": "असली",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "text": "चेहरा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "सामने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "text": "ला",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 77,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 84,
+        "text": "EXPOSE",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "text": "को",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 64,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2025-01-26T15:17:52.362901Z",
+    "updated_at": "2025-01-26T15:17:52.362914Z",
+    "lead_time": 61.036
+  },
+  {
+    "text": "Modi की साज़िश EXPOSED! Saurabh Bharadwaj Press Conference | Arvind Kejriwal | CBI | Aam Aadmi Party",
+    "id": 14472,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "Saurabh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "text": "Bharadwaj",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 75,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "text": "Aam",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 93,
+        "text": "Aadmi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "text": "Party",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "text": "Press",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 57,
+        "text": "Conference",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "text": "EXPOSED",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "text": "साज़िश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2025-01-26T15:19:04.646671Z",
+    "updated_at": "2025-01-26T15:19:04.646683Z",
+    "lead_time": 55.136
+  },
+  {
+    "text": "Arvind Kejriwal को CBI से मिला नोटिस फिर हुआ बवाल! Raghav Chadha | Manish Sisodia | Narendra Modi",
+    "id": 14473,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "text": "Raghav",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 64,
+        "text": "Chadha",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 73,
+        "text": "Manish",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 81,
+        "text": "Sisodia",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 92,
+        "text": "Narendra",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 50,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "को",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "से",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "मिला",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "नोटिस",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "फिर",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "फिर",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "हुआ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 49,
+        "text": "बवाल",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2025-01-26T15:20:02.197667Z",
+    "updated_at": "2025-01-26T15:20:02.197683Z",
+    "lead_time": 49.263
+  },
+  {
+    "text": "CBI Notice पर Arvind Kejriwal का पलटवार | Latest Press Conference | Narendra Modi | Aam Aadmi Party",
+    "id": 14474,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 76,
+        "text": "Narendra",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 81,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "text": "Aam",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 93,
+        "text": "Aadmi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "text": "Party",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "Latest",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "Press",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 65,
+        "text": "Conference",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "Notice",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": "पलटवार",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-01-26T15:20:43.899423Z",
+    "updated_at": "2025-01-26T15:20:43.899470Z",
+    "lead_time": 39.867
+  },
+  {
+    "text": "CBI Notice भेजने पर Modi को Arvind Kejriwal का Message 🔥🔥 #arvindkejriwal #narendramodi #cbi #shorts",
+    "id": 14475,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "CBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 73,
+        "text": "arvindkejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 87,
+        "text": "narendramodi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "cbi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "Notice",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "भेजने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "को",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "text": "Message",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": " 🔥",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "text": "🔥🔥",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2025-01-26T15:21:31.618608Z",
+    "updated_at": "2025-01-26T15:21:31.618621Z",
+    "lead_time": 46.225
+  },
+  {
+    "text": "#DelhiGovtSchool के बच्चे IIT में पहुंच रहे, #BabaSaheb के नक़्शे कदम पर चल रहे #ArvindKejriwal",
+    "id": 14476,
+    "label": [
+      {
+        "start": 1,
+        "end": 16,
+        "text": "DelhiGovtSchool",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "text": "BabaSaheb",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 94,
+        "text": "ArvindKejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "बच्चे",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "पहुंच",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "रहे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "text": "नक़्शे",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 68,
+        "text": "कदम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 74,
+        "text": "चल",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "रहे",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2025-01-26T15:22:14.678106Z",
+    "updated_at": "2025-01-26T15:22:14.678119Z",
+    "lead_time": 40.813
+  },
+  {
+    "text": "Arvind Kejriwal को ED का Notice मिलने पर Atishi ने Modi से पूछे कड़े सवाल | AAP vs BJP",
+    "id": 14477,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "ED",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "text": "Atishi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "text": "BJP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 81,
+        "text": "vs",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "से",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "text": "पूछे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "कड़े",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "text": "सवाल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "को",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "text": "Notice",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "text": "मिलने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2025-01-26T15:23:48.855264Z",
+    "updated_at": "2025-01-26T15:23:48.855276Z",
+    "lead_time": 39.856
+  },
+  {
+    "text": "Ambedkar Jayanti पर Delhi के Thyagraj Stadium में Arvind Kejriwal Govt का भव्य कार्यक्रम | AAP",
+    "id": 14478,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Ambedkar",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "text": "Jayanti",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "Delhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "text": "Thyagraj",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "text": "Stadium",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "text": "Stadium",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "Govt",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "text": "भव्य",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "Govt",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 73,
+        "text": "का",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "के",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "text": "कार्यक्रम",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2025-01-26T15:24:55.089986Z",
+    "updated_at": "2025-01-26T15:24:55.090003Z",
+    "lead_time": 64.434
+  },
+  {
+    "text": "Baba Sahab Ambedkar पर Arvind Kejriwal की दमदार Speech 🔥| Jai Bheem | Education In India 📚",
+    "id": 14479,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Baba",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "text": "Sahab",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "text": "Ambedkar",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 67,
+        "text": "Bheem",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "Jai",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 79,
+        "text": "Education",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 82,
+        "text": "In",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 88,
+        "text": "India",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": " 🔥",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 69,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "text": "दमदार",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "text": "Speech",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 90,
+        "text": " 📚",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2025-01-26T15:25:35.958800Z",
+    "updated_at": "2025-01-26T15:25:42.690658Z",
+    "lead_time": 42.833
+  },
+  {
+    "text": "Manish Sisodia की गिरफ़्तारी पर बड़ा खुलासा!! Sanjay Singh ने Modi की ED को किया EXPOSE",
+    "id": 14480,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Manish",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "text": "Sisodia",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "text": "Sanjay",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "text": "Singh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "ED",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 73,
+        "text": "को",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "ने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "बड़ा",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "text": "खुलासा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "की",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "text": "गिरफ़्तारी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 85,
+        "text": "EXPOSE",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2025-01-26T15:26:30.994318Z",
+    "updated_at": "2025-01-26T15:26:30.994472Z",
+    "lead_time": 46.611
+  }
+]
